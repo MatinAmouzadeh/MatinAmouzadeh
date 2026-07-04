@@ -128,6 +128,7 @@ Hi! I'm Matin 👋
 👨💻 About Me
 
 I am currently improving my skills in backend development with Java.
+
 So far, I have studied advanced Java concepts and object-oriented programming, and I have built several practical projects using Java and JavaFX.
 
 My current focus is on building management and information systems. In the future, I aim to develop AI-powered information systems that can help managers perform basic management tasks more intelligently and efficiently.
@@ -137,6 +138,7 @@ Alongside Java, I have started learning Python and plan to continue this path to
 -------------------------------------------------------------------------------------------------------------
 
 🛠️ Skills
+
 •	Languages: Java, SQL, Python Basics
 
 •	Frameworks & Tools: Spring Boot, JavaFX, Maven, Git & GitHub
