@@ -113,7 +113,7 @@ Java Fundamentals & Advanced Practice 📚:
 
 •	✉️ ایمیل: Matin4212.4212@gmail.com
 
-•	GitHub
+•	[GitHub](https://github.com/MatinAmouzadeh)
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -205,6 +205,6 @@ Some projects are completed, while others are being improved and organized befor
 
 •	✉️ Email: Matin4212.4212@gmail.com
 
-•	GitHub
+•	[GitHub](https://github.com/MatinAmouzadeh)
 
 
